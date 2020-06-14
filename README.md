@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Data-Warehousing-Data-Mining-and-Visualization-IS-665 - Cybersecurity Monitoring of Real-time Application
+This repository is designed to understand the business intelligence of applying data warehousing, data mining and visualization to business problem identification and solutions. Such a repository emphasis on applying both the concepts and techniques of data analytics.  
 
-You can use the [editor on GitHub](https://github.com/akshayjadhav21/Data-Warehousing-Data-Mining-and-Visualization-IS-665/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Insights
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+•	Understand the significance of data in organization management and decision making
 
-### Markdown
+•	Understand business data warehousing and how it can provide business solutions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+•	Apply data mining techniques to identified business problems and search for solutions
 
-```markdown
-Syntax highlighted code block
+•	Explore various data mining techniques to the collected data
 
-# Header 1
-## Header 2
-### Header 3
+•	Develop data mining model for organizational data
 
-- Bulleted
-- List
+•	Understand the roles of data visualization
 
-1. Numbered
-2. List
+## Softwares
 
-**Bold** and _Italic_ and `Code` text
+Tableau, RapidMiner, SPSS Modeler v15.
 
-[Link](url) and ![Image](src)
-```
+#### **Instructor**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Pedro Vasseur
 
-### Jekyll Themes
+#### **Reference Books**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akshayjadhav21/Data-Warehousing-Data-Mining-and-Visualization-IS-665/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+•	Nenad Jukic, and others, Database Systems, Introduction to Databases and Datawarehouses- Edition 1 – Pearson
 
-### Support or Contact
+•	Daniel T. Larose and Chantal D. Larose, 2014: Discovering Knowledge in Data – An Introduction to Data Mining (Second Edition). Wiley.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
